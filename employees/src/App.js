@@ -3,7 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 
 import Jumbotron from "./components/Jumbotron"
-import Table from './components/Navbar';
+import Table from './components/Table';
 import MainContain from './components/MainContain';
 
 function App() {
